@@ -34,9 +34,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit0612&layout=compact&theme=radical" width="100%">
       </td>
       <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshit0612&theme=radical" width="100%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=harshit0612&theme=radical" width="100%">
       </td>
     </tr>
   </table>
 </div>
-

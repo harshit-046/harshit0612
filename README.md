@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![GitHub Streak](https://streak-stats.demolab.com/?user=harshit0612)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit0612&layout=compact)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit0612&show_icons=true&count_private=true)
 
 <!--

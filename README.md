@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![GitHub Streak](https://streak-stats.demolab.com/?user=harshit0612)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit0612&show_icons=true&count_private=true)
+
 <!--
 **harshit0612/harshit0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

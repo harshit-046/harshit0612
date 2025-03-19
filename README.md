@@ -20,8 +20,23 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
+<h2 align="center">📊 harshit0612's GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit0612&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit0612&layout=compact&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit0612&layout=compact&theme=radical)
+<div align="center">
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=harshit0612&show_icons=true&theme=radical" width="80%">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit0612&layout=compact&theme=radical" width="100%">
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshit0612&theme=radical" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
+

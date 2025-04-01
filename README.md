@@ -14,7 +14,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit0612&layout=compact&theme=radical" width="100%">
       </td>
       <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com?user=harshit0612&theme=radical" width="100%">
+<!--         <img src="https://streak-stats.demolab.com?user=harshit0612&theme=radical" width="100%"> -->
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=harshit0612&theme=radical" width="100%">
+
       </td>
     </tr>
   </table>

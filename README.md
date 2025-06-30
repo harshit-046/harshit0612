@@ -6,15 +6,15 @@
   <table>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=harshit0612&show_icons=true&theme=radical" width="80%">
+        <img src="https://github-readme-stats.vercel.app/api?username=harshit-046&show_icons=true&theme=radical" width="80%">
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit0612&layout=compact&theme=radical" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-046&layout=compact&theme=radical" width="100%">
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=harshit0612&theme=radical" width="100%">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=harshit-046&theme=radical" width="100%">
       </td>
     </tr>
   </table>
